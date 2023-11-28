@@ -1,9 +1,11 @@
-<h1 align="center">Hola 👋, me llamo Alexis Ferradans</h1>
+<h1 align="center">Hola 👋, soy Alexis Ferradans</h1>
 <h3 align="center">Front-end developer con gusto por el desarrollo y diseño web, ubicado en Uruguay.</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Framer Motion, Lenis, GSAP**
+- 🌱 Actualmente aprendiendo **Angular, Framer Motion, Lenis, GSAP.**
 
 - 👨‍💻 Mis proyectos estan disponibles [https://aleferradans.github.io/](https://aleferradans.github.io/)
+
+- 💬 Preguntame sobre **Sass, CSS, SQL, JS.**
 
 - 📫 Como contactarme **alexisferradans05@gmail.com**
 
