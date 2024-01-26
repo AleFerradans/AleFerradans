@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente aprendiendo **Astro, Framer Motion, Lenis, GSAP.**
 
-- 👨‍💻 Mis proyectos estan disponibles [https://aleferradans.github.io/](https://aleferradans.github.io/)
+- 👨‍💻 Mis proyectos estan disponibles (https://alexisferradans.com/)
 
 - 💬 Preguntame sobre **Sass, CSS, SQL, JS.**
 
