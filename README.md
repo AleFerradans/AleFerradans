@@ -5,9 +5,8 @@
 
 - 👨‍💻 Mis proyectos estan disponibles (https://alexisferradans.com/)
 
-- 💬 Preguntame sobre **Sass, CSS, SQL, JS.**
 
-- 📫 Como contactarme **alexisferradans05@gmail.com**
+- 📫 Como contactarme **webdeveloper@alexisferradans.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
