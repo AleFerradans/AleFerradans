@@ -28,8 +28,7 @@ That's how I focused on frontend development, enjoying creating things through c
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="26" height="26" alt="MySQL" /></a>
     </p>
     </li>
-    <li>
-    Tools <br>
+    <li>Tools <br>
     <p align="left">
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="26" height="26" alt="Figma" /></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="26" height="26" alt="Git" /></a>
