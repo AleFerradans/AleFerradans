@@ -2,7 +2,7 @@
 <img src="Banner.png"> <br/> 
 
 
-<h3><picture><img src ="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"></picture> About me</h3>
+<h2><picture><img src ="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"></picture> About me</h2>
 <p>I'm a software developer who, by suggestion, began studying SQL databases, and then continued learning new web development technologies.<br>
 
 That's how I focused on frontend development, enjoying creating things through code and spending hours on the computer 👨🏻‍💻
@@ -10,7 +10,7 @@ That's how I focused on frontend development, enjoying creating things through c
 </p>
 
 
-<h3><img src="https://camo.githubusercontent.com/94b33bd991f6c3135af747bdf27361be43e797c0fce678b62ed5aef57e9d8bd7/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30"> Tech stack</h3>
+<h2><img src="https://camo.githubusercontent.com/94b33bd991f6c3135af747bdf27361be43e797c0fce678b62ed5aef57e9d8bd7/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30"> Tech stack</h2>
 <ul>
     <li><strong>Front-End
     <p align="left">
@@ -38,7 +38,7 @@ That's how I focused on frontend development, enjoying creating things through c
         
 </ul>
 
-<h3>Contact</h3>
+<h2>Contact</h2>
 <p>Thanks for visiting!<br>
 Please find me on <a href="https://www.linkedin.com/in/alexis-ferradans-cv/" target="_blank" rel="noreferrer">LinkedIn</a> for a more detailed of my projects and my certifications. <br> <br>
 You can get in touch with me by email at <strong>webdeveloper@alexisferradans.com</strong> </p>
