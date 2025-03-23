@@ -3,7 +3,7 @@
 
 
 <h2><picture><img src ="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"></picture> About me</h2>
-<p>I'm a Frontend developer, I started with programming in 2016, and then i took it up again with SQL database (Oracle SQL Developer)in 2021. and now focused on web development.<br>
+<p>I'm a Frontend developer, I started with programming in 2016, and then i took it up again with SQL database (Oracle SQL Developer)in 2021. Now focused on web development.<br>
 That's how I focused on frontend development, enjoying creating things through code and spending hours on the computer 👨🏻‍💻
 
 </p>
