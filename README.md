@@ -1,5 +1,5 @@
 <h1 align="center">¡Welcome to my profile!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<img src="Banner.png"> <br/> 
+
 
 
 <h2><picture><img src ="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"></picture> About me</h2>
